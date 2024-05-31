@@ -4,5 +4,5 @@
 
 ![Image of Plot](N1.png)
 
-![Image of Plot](123.png)
+![Image of Plot](123.jpg)
 
